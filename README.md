@@ -5,7 +5,7 @@ En este repositorio se encuentra la data utilizada para la resolución del exame
 * Fecha de nacimiento: 13 de febrero de 1997
 * Lugar de nacimiento: Azuay, Cuenca
 * Tipo de sangre: O+
-* Alergias: Ninguna
+* Alergias U+1F927: Ninguna
 * Correo institucional: johanna.guarango@est.ikiam.edu.ec
 ## Características del computador
 * Tipo de dispositivo: Computadora portátil
