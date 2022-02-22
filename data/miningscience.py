@@ -34,7 +34,7 @@ def mining_pubs(tipo):
     """
     como entrada pide un codigo "DP", "AU" y "AD" y como salida muestra un data frame con los datos solicitados
     """
-    with open("data/pubmed-EcuadorGen-set.txt", errors="ignore") as f: 
+    with open("pubmed-EcuadorGen-set.txt", errors="ignore") as f: 
         texto = f.read() 
     if tipo == "DP":
         ## Data frame con el PMID y año de publicación
